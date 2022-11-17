@@ -1,0 +1,29 @@
+div{
+	background: red;
+	position: relative;
+	
+}
+
+
+.verde{
+	background: green;
+}
+
+#mediano{
+	background: yellow;
+	width: 500px;
+	position: relative;
+
+	top: 0px;
+	right: ;
+	bottom: ;
+	left: ;
+}
+
+p{
+	font-size: 120px;
+}
+
+h1{
+	font-size: 120px;
+}
